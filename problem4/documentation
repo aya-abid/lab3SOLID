@@ -1,0 +1,3 @@
+1- Student uses 2 methods and doesn't support 3 (teach, gradeExam, publishPaper), while Professor uses those 3 and doesn't accept the 2 methods (enrollInCourse, and payTuition)
+2- Both Student and Professor must be edited and recompiled, even though Student never grades anything.
+This is the problem with ISP: changing one method forces unrelated classes to change

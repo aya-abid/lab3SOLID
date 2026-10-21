@@ -1,0 +1,4 @@
+1- The program crashes when it reaches the fixed-term account.
+2- Because the Account class promises that accounts support withdrawals, while FixedTermAccount does not support them.
+3- The exception rule. FixedTermAccount introduces an exception for an operation that the parent class supports
+4- This violates the Open Closed Principle because Bank must be modified whenever a new non-withdrawable account type is introduced

@@ -1,0 +1,14 @@
+1- actors and reasons to change:
+	Accounting team -> change discount calculations
+	Sales team -> change customer or invoice line information
+	Presentation / UI team -> change the invoice formatting
+	Data team -> change how invoices are saved
+
+2- total(), print(), and save() also change after the discount change
+3- we split the classes into 4 classes as shown in code
+4- see code
+5- Classes description :
+	InvoiceData -> stores the invoice information
+	InvoiceCalculator -> calculates invoice amount 
+	InvoicePrinter -> formats the invoice for display 
+	InvoiceRepository -> saves the invoice to a file 

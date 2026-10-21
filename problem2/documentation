@@ -1,0 +1,2 @@
+7- the strategy design pattern
+8- The design is not fully closed against this change because we would need to modify the ShippingMethod interface and potentially its implementations.

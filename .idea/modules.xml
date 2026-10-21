@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project/Project.iml" filepath="$PROJECT_DIR$/Project/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab3SOLID.iml" filepath="$PROJECT_DIR$/.idea/lab3SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem1/problem1.iml" filepath="$PROJECT_DIR$/problem1/problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem1/problem1after/problem1after.iml" filepath="$PROJECT_DIR$/problem1/problem1after/problem1after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem1/problem1before/problem1before.iml" filepath="$PROJECT_DIR$/problem1/problem1before/problem1before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem2/problem2.iml" filepath="$PROJECT_DIR$/problem2/problem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem2/problem2after/problem2after.iml" filepath="$PROJECT_DIR$/problem2/problem2after/problem2after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem2/problem2before/problem2before.iml" filepath="$PROJECT_DIR$/problem2/problem2before/problem2before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem3/problem3.iml" filepath="$PROJECT_DIR$/problem3/problem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem3/problem3after/problem3after.iml" filepath="$PROJECT_DIR$/problem3/problem3after/problem3after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem3/problem3before/problem3before.iml" filepath="$PROJECT_DIR$/problem3/problem3before/problem3before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem4/problem4.iml" filepath="$PROJECT_DIR$/problem4/problem4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem4/problem4after/problem4after.iml" filepath="$PROJECT_DIR$/problem4/problem4after/problem4after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem4/problem4before/problem4before.iml" filepath="$PROJECT_DIR$/problem4/problem4before/problem4before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem5/problem5.iml" filepath="$PROJECT_DIR$/problem5/problem5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem5/problem5after/problem5after.iml" filepath="$PROJECT_DIR$/problem5/problem5after/problem5after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem5/problem5before/problem5before.iml" filepath="$PROJECT_DIR$/problem5/problem5before/problem5before.iml" />
+    </modules>
+  </component>
+</project>
